@@ -1,0 +1,9 @@
+streamlit
+requests
+fake-useragent
+beautifulsoup4
+lxml
+pandas
+folium
+geopy
+streamlit-folium
