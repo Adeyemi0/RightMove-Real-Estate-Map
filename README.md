@@ -60,7 +60,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Open the app in your browser at [http://localhost:8501](http://localhost:8501).
+Open the app in your browser at [https://rightmove-real-estate-map-eqbj5l5mmdhngphloomwsg.streamlit.app/).
 
 ## Usage
 1. After launching the app, you will see a dropdown to select a station in London.
